@@ -4,26 +4,22 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
-
 <h1 align="center">Hi 👋, I'm Ramprasanth Sakthivel</h1>
 <h3 align="center">🚀 Full Stack Developer | Java + Spring Boot | MERN Stack</h3>
 
-###
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ram-prasanth2802" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/ramprasanths_221" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=plastic&logo=hackerrank&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=plastic&logo=hackerrank&logoColor=white"/>
   </a>
 </div>
 
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ramprasanth7119.Ramprasanth7119" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ramprasanth7119" />
 </div>
 
 ---
@@ -32,95 +28,110 @@
 
 - 🎓 B.E. Computer Science @ Kongu Engineering College (CGPA: 8.11)  
 - 💼 Former Software Trainee @ JPBP Offshore  
-- ⚡ Full Stack Developer focused on **Java + Spring Boot + MERN**  
-- 🔍 Interested in **Backend Systems & Scalable Applications**  
+- ⚡ Specialized in **Full Stack Development (Java + Spring Boot + MERN)**  
+- 🔍 Strong interest in **Frontend Systems & Backend Applications**  
 - 📫 Email: **ramprasanth2802@gmail.com**
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Project  
 
 ### 💡 iHub – Idea Bidding Platform  
-- Built a full-stack platform for idea creators and investors  
-- Implemented **bidding system + auction flow + real-time updates**  
-- Developed REST APIs for idea management, bids, search & filtering  
-- Used **MySQL + Elasticsearch** for optimized data handling  
-- Built interactive frontend using **React**  
-- ⚙️ Tech: Spring Boot, React, MySQL, Elasticsearch, Docker  
+- Built a **real-time idea bidding system** for creators & investors  
+- Designed REST APIs for bidding, auctions, search & filtering  
+- Integrated **MySQL + Elasticsearch** for performance optimization  
+- Built responsive UI using **React**  
+- Containerized using **Docker**  
 
-👉 **GitHub Repo**
+👉 **GitHub Repository**
 
 ---
 
-### 📝 Notes App  
-- Full-stack CRUD app with authentication, tagging, and search  
-- Optimized MongoDB queries for performance  
-- Designed responsive UI for better UX  
+## 🧩 Other Projects  
 
-👉 **GitHub Repo | Live Demo**
+### 📝 Notes App  
+- Full-stack CRUD application with authentication & search  
+- Optimized MongoDB queries for performance  
+
+👉 GitHub Repo | Live Demo  
 
 ---
 
 ### 🎮 Rock-Paper-Scissors  
 - Interactive browser game with auto-play  
-- Implemented persistent scoring using localStorage  
-- Responsive UI with real-time feedback  
+- Persistent score using localStorage  
 
-👉 **GitHub Repo | Live Demo**
+👉 GitHub Repo | Live Demo  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+
 </div>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramprasanth7119&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramprasanth7119&layout=compact&theme=dracula" height="150"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramprasanth7119&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+</p>
 
 ---
 
 ## 📈 GitHub Streak  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ramprasanth7119&theme=dark" height="200"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ramprasanth7119&theme=tokyonight&cache_seconds=86400"/>
+</p>
+
+---
+
+## 📊 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramprasanth7119&theme=react-dark"/>
+</p>
 
 ---
 
 ## 🎯 Current Focus  
 
-- Building scalable backend systems with Spring Boot  
-- Strengthening system design & API development  
+- Building scalable backend systems using Spring Boot  
+- Improving system design & API architecture  
 - Deploying full-stack applications  
 
 ---
 
-## 🧠 Developer Mindset  
+## ⚡ Developer Strengths  
 
-> “Focused on writing clean, scalable code and building real-world solutions.”
+- Clean and maintainable code  
+- Strong backend logic & API development  
+- Hands-on real-world project experience  
 
 ---
+
+## 🌐 Connect With Me  
+
+- LinkedIn: https://linkedin.com/in/ram-prasanth2802  
+- GitHub: https://github.com/Ramprasanth7119  
+
+---
+
+## 🧠 Quote  
+
+> “I focus on building scalable systems, not just working applications.”
