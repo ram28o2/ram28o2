@@ -101,6 +101,21 @@
 
 ---
 
+---
+
+## 🟡 Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/ram28o2/ram28o2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/ram28o2/ram28o2/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" 
+       src="https://raw.githubusercontent.com/ram28o2/ram28o2/output/pacman-contribution-graph.svg">
+</picture>
+ 
+---
+
 ## 📊 Activity Graph  
 
 <p align="center">
